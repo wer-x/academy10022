@@ -1,4 +1,4 @@
-package by.academy.homework;
+package by.academy.homework.operators;
 
 public class Homework4 {
 

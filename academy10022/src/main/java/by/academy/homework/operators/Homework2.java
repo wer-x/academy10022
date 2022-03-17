@@ -1,4 +1,4 @@
-package by.academy.homework;
+package by.academy.homework.operators;
 
 import java.io.IOException;
 import java.util.Scanner;
