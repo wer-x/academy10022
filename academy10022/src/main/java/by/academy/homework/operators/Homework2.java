@@ -28,8 +28,8 @@ public class Homework2 {
 			break;
 		case "char":
 			System.out.println("Введите символ");
-			/*String str = scanner.next();
-			char c = str.charAt(0);
+			String str = scanner.next();
+			/*char c = str.charAt(0);
 			System.out.println(c);*/
 			int c = System.in.read();
 			System.out.println(c);

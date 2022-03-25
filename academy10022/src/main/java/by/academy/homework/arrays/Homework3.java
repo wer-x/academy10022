@@ -21,6 +21,7 @@ public class Homework3 {
 		}
 
 		System.out.println("First smallest word is: " + res);
+		sc.close();
 	}
 
 }

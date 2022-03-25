@@ -2,7 +2,6 @@ package by.academy.homework.arrays;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Iterator;
 import java.util.Random;
 import java.util.Scanner;
 
@@ -83,7 +82,7 @@ public class Homework5 {
 		} else {
 			System.out.println("Enter other number of players!");
 		}
-
+		sc.close();
 	}
 
 }

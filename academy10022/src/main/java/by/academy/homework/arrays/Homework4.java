@@ -10,11 +10,13 @@ public class Homework4 {
 		String f = sc.nextLine();
 		String s = sc.nextLine();
 		String c = null;
+		sc.close();
 		if (f.length() % 2 == 0 && s.length() % 2 == 0) {
 			c = f.substring(0, f.length() / 2) + s.substring(s.length() / 2);
 			System.out.println("Result word is: " + c);
 		} else {
 			System.out.println("Wrong words");
+
 			return;
 		}
 
